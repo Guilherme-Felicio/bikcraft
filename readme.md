@@ -28,7 +28,7 @@ Bikcraft é um site institucional feito para uma loja de bicicletas personalizad
   <li>Você pode fazer o download desse repositório através do Github clicando em:<br>
     code-> download zip </li>
   <li>Ou também pode clonar esse repositório através do gitbash digitando:<br>
-    git clone https://github.com/Guilherme-Felicio/Lp2.git</li>
+    git clone git@github.com:Guilherme-Felicio/bikcraft.git</li>
 </ul>
 
 
