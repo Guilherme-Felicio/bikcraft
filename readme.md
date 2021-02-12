@@ -17,7 +17,10 @@ Bikcraft é um site institucional feito para uma loja de bicicletas personalizad
 </ul>
 
 <h3>🚧Status do sistema</h3>
-Em construção...👷🚧
+<ul>
+  <li>Em construção...👷🚧</li>
+</ul>
+
 
 <h3>❓Como baixar esse repositório</h3>
 
