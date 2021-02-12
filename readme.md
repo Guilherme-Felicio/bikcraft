@@ -1,0 +1,30 @@
+<h1 align="center">
+  Projeto bikcraft</h1>
+
+
+<h2>
+  ℹ️Sobre
+</h2>
+Bikcraft é um site institucional feito para uma loja de bicicletas personalizadas, desenvolvido durante o curso de web design completo da <a href="https://www.origamid.com/">origamid.</a> Durante o curso foram aprendidos conceitos de design e também a construção de uma wireframe pelo aplicativo Adobe XD.
+
+<h3>⚠️Pré-requisitos</h3>
+
+<ul>
+  <li>Para vizualizar o wireframe é necessário a instalação do Adobe XD.</li>
+</ul>
+
+<h3>🚧Status do sistema</h3>
+em construção...👷🚧
+
+<h3>❓Como baixar esse repositório</h3>
+
+<ul>
+  <li>Você pode fazer o download desse repositório através do Github clicando em:<br>
+    code-> download zip </li>
+  <li>Ou também pode clonar esse repositório através do gitbash digitando:<br>
+    git clone https://github.com/Guilherme-Felicio/Lp2.git</li>
+</ul>
+
+
+<hr height="4px">
+Desenvolvido🖤por Guilherme Henrique Felicio
