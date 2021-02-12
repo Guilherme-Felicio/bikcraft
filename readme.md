@@ -5,7 +5,9 @@
 <h2>
   ℹ️Sobre
 </h2>
-Bikcraft é um site institucional feito para uma loja de bicicletas personalizadas, desenvolvido durante o curso de web design completo da <a href="https://www.origamid.com/">origamid.</a> Durante o curso foram aprendidos conceitos de design e também a construção de uma wireframe pelo aplicativo Adobe XD.
+Bikcraft é um site institucional feito para uma loja de bicicletas personalizadas, desenvolvido durante o curso de web design completo da <a href="https://www.origamid.com/">origamid.</a> Durante o curso foram aprendidos conceitos de design e também a construção de uma wireframe pelo aplicativo <a href="https://www.adobe.com/br/products/xd.html">Adobe XD.</a>
+
+<img src="./github/apresentacao.gif" alt="Gif do wireframe">
 
 <h3>⚠️Pré-requisitos</h3>
 
