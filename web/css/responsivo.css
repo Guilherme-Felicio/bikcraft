@@ -53,6 +53,10 @@
     border-color: white;
   }
 
+  .header_menu ul li a.menu_ativo {
+    border-color: #fff;
+  }
+
   /* Indrodução */
 
   .introducao {
@@ -66,6 +70,12 @@
     text-transform: uppercase;
   }
 
+  /* introducao-interna */
+
+  .introducao-interna {
+    margin-top: 0px;
+  }
+
   /* call  */
 
   .call {
@@ -76,5 +86,22 @@
 
   .qualidade::after {
     display: none;
+  }
+
+  /* sobre  */
+
+  .missao_sobre p {
+    padding-right: 0px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .missao_sobre ul li {
+    font-size: 14px;
+    line-height: 25px;
+  }
+
+  .foto-equipe {
+    padding-top: 40px;
   }
 }
