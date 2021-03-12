@@ -352,7 +352,7 @@ img {
   padding-right: 40px;
 }
 
-footer_contato ul li {
+.footer_contato ul li {
   font-size: 14px;
   line-height: 20px;
   font-family: Georgia, "Times New Roman", serif;
@@ -385,7 +385,7 @@ footer_contato ul li {
   line-height: 1.5;
 }
 
-/* javascripy  */
+/* javascript do slide  */
 
 .js [data-slide] {
   position: relative;
@@ -402,9 +402,8 @@ footer_contato ul li {
   z-index: 1;
 }
 
-/* estilização da navageção */
+/* estilização da navageção de slide */
 
-/* 6 CSS recomendado para a navegação */
 .js[data-slide-nav] {
   display: block;
   justify-content: center;
@@ -425,4 +424,19 @@ footer_contato ul li {
 }
 .js [data-slide-nav] > button.active {
   background: #fec454;
+}
+
+/* simple anime */
+.js [data-anime] {
+  opacity: 0;
+}
+
+.fadeInDown {
+  transform: translate3d(0, -20px, 0);
+}
+
+.js .anime {
+  opacity: 1;
+  transform: none;
+  transition: transform 0.8s, opacity 0.8s;
 }
