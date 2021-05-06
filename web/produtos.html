@@ -14,12 +14,7 @@
 	<meta property="og:image" content="http/bikcraft.com/img/og-image.png">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="stylesheet" href="./css/normalize.css">
-	<link rel="stylesheet" href="./css/reset.css">
-	<link rel="stylesheet" href="./css/grid.css">
 	<link rel="stylesheet" href="./css/style.css">
-	<link rel="stylesheet" href="./css/produtos.css">
-	<link rel="stylesheet" href="./css/responsivo.css">
 	<script>document.documentElement.classList.add("js");</script>
 </head>
 
@@ -121,9 +116,9 @@
 			<form id="form_orcamento" class="grid-8 form formphp" method="POST" action="./enviar-sendgrid.php">
 
 				<label for="nome">Nome</label>
-				<input type="text" id="nome" name="nome" rqeuired>
+				<input type="text" id="nome" name="nome" required>
 
-				<label for="Email">Email</label>
+				<label for="email">Email</label>
 				<input type="email" name="email" id="email" required>
 
 				<label for="telefone">Telefone</label>
@@ -136,7 +131,7 @@
 				<input type="text" class="nao-aparece" name="dontchange" value="http://">
 
 				<label for="mensagem">Mensagem</label>
-				<textarea type="mensagem" id="mensagem" name="mensagem" required></textarea>
+				<textarea id="mensagem" name="mensagem" required></textarea>
 
 				<button id="enviar" name="enviar" type="submit" class="btn">Enviar</button>
 			</form>
@@ -167,12 +162,12 @@
 
 
 
-	<section class="quebra">
+	<div class="quebra">
 		<blockquote class="quote-externo container">
 			<p>"O verdadeiro segredo da felicidade está em ter genuíno interesse por todos os detalhes da vida cotidiana"</p>
 			<cite>William Morris</cite>
 		</blockquote>
-	</section>
+	</div>
 
 	<footer>
 		<div class="footer">
